@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "host": "127.0.0.1",
+        "port": 5435,
+        "database": "user_service",
+        "user": "root",
+        "password": "root",
+        "driver": "pg"
+    }
+}
